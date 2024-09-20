@@ -10,6 +10,7 @@
 
 ![groq key](https://github.com/user-attachments/assets/308e6ca7-63d4-4896-bce2-ea9dcde78759)
 
+![fastapi1](https://github.com/user-attachments/assets/d55ac50b-19b5-4e21-91d8-affcba5bdd01)
 
 ![ggroq](https://github.com/user-attachments/assets/a001ad68-caa8-44d2-a303-f42bf1f7c4e7)
 
