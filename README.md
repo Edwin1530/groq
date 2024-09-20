@@ -5,6 +5,7 @@
 ![fastapi](https://github.com/user-attachments/assets/d86d580c-37e5-46f9-a44e-6cfd02f767da)
 
 
+![docker ps](https://github.com/user-attachments/assets/83a502fd-275e-4c9f-b21a-b073b2021a90)
 
 ![git push](https://github.com/user-attachments/assets/50a6cd90-5c7f-4df5-8b3f-b204326e10f2)
 
