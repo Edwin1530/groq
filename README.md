@@ -15,3 +15,5 @@
 
 
 ![pytest](https://github.com/user-attachments/assets/cbfd156b-dc51-4fb4-b04e-83186fc3c267)
+![pytest](https://github.com/user-attachments/assets/5839a18e-db08-4c5c-9178-c5be996433ca)
+![fastapi](https://github.com/user-attachments/assets/b3065810-5751-44eb-a238-2d69ee4af029)
